@@ -1,5 +1,5 @@
 # 👋 Hi I’m Barbara Ortiz<br>
-👩🏻‍💻 Electronic Engineer <br>👩🏻‍🎓 Studied Electronic engineer at the University UTN, Argentina<br>🔭  I’m looking to collaborate on Data Science Projects<br>🌱 I’m currently learning Data Science in #ONE Oracle's bootcamp<br>💬 Ask me about Finances Models<br>📫 How to reach me: barbaraortiz1501@gmail.com
+👩🏻‍💻 Electronic Engineer <br>👩🏻‍🎓 Studied Electronic engineer at the University UTN, Argentina<br>🔭  I’m looking to collaborate on Data Science Projects<br>🌱 I’m currently learning Data Science in Oracle Next Education, Oracle's bootcamp<br>💬 Ask me about Finances Models<br>📫 How to reach me: barbaraortiz1501@gmail.com
 
 
 ## 🌐 Socials:
