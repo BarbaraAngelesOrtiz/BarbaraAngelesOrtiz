@@ -1,4 +1,4 @@
-# I'm an Electronics Engineer with experience in Artificial Intelligence and automation. I am passionate about turning ideas into technological solutions and exploring new frontiers in science and technology.
+### I'm an Electronics Engineer with experience in Artificial Intelligence and automation. I am passionate about turning ideas into technological solutions and exploring new frontiers in science and technology.
 
 ## 🚀 About Me
 👩‍💻 Electronics Engineer with experience in AI and software development.
