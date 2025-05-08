@@ -1,6 +1,6 @@
 ### I'm an Electronics Engineer with experience in Artificial Intelligence and automation. I am passionate about turning ideas into technological solutions and exploring new frontiers in science and technology.
 
-## 🚀 About Me
+# 🚀 About Me
 👩‍💻 Electronics Engineer with experience in AI and software development.
 
 🌱 Currently working on generative AI solutions to enhance efficiency in business processes.
@@ -11,8 +11,7 @@
 
 💬 Enthusiast of geographic data analysis and spatial pattern recognition for business insights.
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/viajandoando_barby/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ortiz-barbara/) 
 
 # 💻 Tech Stack:
